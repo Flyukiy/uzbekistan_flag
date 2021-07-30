@@ -1,4 +1,4 @@
-# uzbekistan_flag
+# Uzbekistan flag / FLutter
 
 Simple flutter project to demonstrate Uzbekistan's national flag :)
 
